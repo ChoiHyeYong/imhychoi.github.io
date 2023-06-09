@@ -32,11 +32,11 @@
     margin-bottom: 30px;
 }
 .row2 > .box2 {
-    width: 60%;
+    width: 50%;
     margin: 0 auto;
 }
-.row2 > .box21 ~ .box22 {
-    width: 80%;
+.row2 > .box22 {
+    width: 70%;
     margin: 0 auto;
 }
 .row2 > div > img {
