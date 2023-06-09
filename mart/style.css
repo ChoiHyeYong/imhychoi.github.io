@@ -43,14 +43,43 @@
     width: 100%;
 }
 
+/* Row3 */
 .row3 {
     display: flex;
     flex-flow: wrap;
     padding: 0 10%;
 }
-.row3 > div {
+.row3 > .box3 {
     width: 33.3%;
 }
-.row3 > div > img {
+.row3 > .box3 > img {
     width: 100%;
+}
+
+/* 60 Area */
+.row60 {
+    width: 80%;
+    margin: 0 auto;
+}
+.row60 > img {
+    width: 100%;
+}
+
+.call {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    outline: none;
+}
+#c11 { width: 40%; }
+#c12 { width: 50%; }
+#c13 { width: 10%; }
+
+#c14 { width: 40%; }
+#c15 { width: 60%; }
+
+#c16 { width: 100%;}
+
+#b {
+    height: 500px;
 }
