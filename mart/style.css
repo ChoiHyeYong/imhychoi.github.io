@@ -7,115 +7,57 @@
     color: #000;
 }
 #container {
-    margin: 0 auto;
-    width: 99.9vw;
-}
-
-/* Row1 */
-.row1 {
-    display: flex;
-    margin-top: 30px;
-}
-.row1 > .box11, .row1 >.box13 {
-    flex: 1.2;
-}
-.row1 > .box12 {
-    flex: 2;
-}
-.row1 > .box1 > img {
     width: 100%;
+    padding-top: 40px;
 }
-
-/* Row2 */
-.row2 {
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-.row2 > .box2 {
-    width: 50%;
-    margin: 0 auto;
-}
-.row2 > .box22 {
-    width: 70%;
-    margin: 0 auto;
-}
-.row2 > div > img {
+#container > div > img {
     width: 100%;
-}
-
-/* Row3 */
-.row3 {
-    display: flex;
-    flex-flow: wrap;
-    padding: 0 10%;
-}
-.row3 > .box3 {
-    width: 33.3%;
-}
-.row3 > .box3 > img {
-    width: 100%;
-}
-
-/* 60 Area */
-.row60 {
-    width: 80%;
-    margin: 0 auto;
-}
-.row60 > img {
-    width: 100%;
-}
-
-.call {
-    width: 80%;
-    margin: 0 auto;
-    display: flex;
-    outline: none;
     border: none;
 }
-.call > img {
-    margin: 0;
+.box2, .box3, .box4 {
+    padding: 5px 20%;
 }
-
-#c11 { width: 40%; }
-#c12a { width: 50%; }
-#c12 { width: 100%; }
-#c13 { width: 10%; }
-
-#c14 { width: 40%; }
-#c15 { width: 60%; }
-
-#c16 {
+#menu {
+    margin: 20px 0;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+}
+#menu > div {
+    width: 30%;
+}
+#menu > div > img {
     width: 100%;
-    padding-left: 15px;
+}
+/* 삽화 1장 */
+.box17 {
+    width: 95%;
+    margin: 0 auto;
+}
+/* 가계별 링크 */
+#store {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#store {
+    width: 97%;
+    margin: 0 auto;
+}
+#store > img {
+    width: 100%;
+}
+#store > a {
     border: 1px solid #000;
 }
-
-#c17 { width: 12%; }
-#c18a {
-    width: 52%;
+#store > a > img {
+    width: 100%;
 }
-#c18 { width: 100%; }
-#c19 { width: 35%; }
-
-#c20 { width: 100%; }
-
-#c21 { width: 42%; }
-#c22a { width: 52%; }
-#c22 { width: 100%; }
-#c23 { width: 8%; }
-
-#c24 { width: 100%; }
-
-#c25 { width: 12%; }
-#c26a { width: 52%; }
-#c26 { width: 100%; }
-#c27 { width: 35%; }
-
-
-
 
 
 
 #b {
-    height: 500px;
+    width: 100px;
+    height: 300px;
 }
