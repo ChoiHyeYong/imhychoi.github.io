@@ -15,7 +15,7 @@
     margin-top: 30px;
 }
 .row1 > .box11, .row1 >.box13 {
-    flex: 1;
+    flex: 1.2;
 }
 .row1 > .box12 {
     flex: 2;
