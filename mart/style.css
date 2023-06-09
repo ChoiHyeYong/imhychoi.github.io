@@ -10,6 +10,8 @@
     margin: 0 auto;
     width: 99.9vw;
 }
+
+/* Row1 */
 .row1 {
     display: flex;
     margin-top: 30px;
@@ -24,15 +26,16 @@
     width: 100%;
 }
 
+/* Row2 */
 .row2 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
-.row2 > div {
+.row2 > .box2 {
     width: 60%;
     margin: 0 auto;
 }
-.row2 > .box4 ~ .box5 {
+.row2 > .box21 ~ .box22 {
     width: 80%;
     margin: 0 auto;
 }
