@@ -7,8 +7,8 @@
     color: #000;
 }
 #container {
-    width: 414px;
-    border: 1px solid #000;
+    margin: 0 auto;
+    width: 99%;
 }
 .row1 {
     display: flex;
