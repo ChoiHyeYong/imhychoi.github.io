@@ -94,7 +94,10 @@
 #c24 { width: 100%; }
 
 #c25 { width: 12%; }
-#c26 { width: 52%; }
+#c26a {
+    width: 52%;
+}
+#c26 { width: 100%; }
 #c27 { width: 35%; }
 
 
