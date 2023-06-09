@@ -73,7 +73,10 @@
     outline: none;
 }
 #c11 { width: 40%; }
-#c12 { width: 50%; }
+#c12a {
+    width: 50%;
+}
+#c12 { width: 100%; }
 #c13 { width: 10%; }
 
 #c14 { width: 40%; }
@@ -82,13 +85,19 @@
 #c16 { width: 100%;}
 
 #c17 { width: 12%; }
-#c18 { width: 52%; }
+#c18a {
+    width: 52%;
+}
+#c18 { width: 100%; }
 #c19 { width: 35%; }
 
 #c20 { width: 100%; }
 
 #c21 { width: 42%; }
-#c22 { width: 50%; }
+#c22a {
+    width: 52%;
+}
+#c22 { width: 100%; }
 #c23 { width: 8%; }
 
 #c24 { width: 100%; }
