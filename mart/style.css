@@ -69,6 +69,7 @@
     width: 80%;
     margin: 0 auto;
     display: flex;
+    justify-content: center;
     outline: none;
 }
 #c11 { width: 40%; }
@@ -79,6 +80,27 @@
 #c15 { width: 60%; }
 
 #c16 { width: 100%;}
+
+#c17 { width: 12%; }
+#c18 { width: 52%; }
+#c19 { width: 35%; }
+
+#c20 { width: 100%; }
+
+#c21 { width: 42%; }
+#c22 { width: 50%; }
+#c23 { width: 8%; }
+
+#c24 { width: 100%; }
+
+#c25 { width: 12%; }
+#c26 { width: 52%; }
+#c27 { width: 35%; }
+
+
+
+
+
 
 #b {
     height: 500px;
