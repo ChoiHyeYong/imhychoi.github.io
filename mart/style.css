@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+}
+#container {
+    width: 100%;
+    padding-top: 40px;
+}
+#container > div > img {
+    width: 100%;
+    border: none;
+}
+.box2, .box3, .box4 {
+    padding: 5px 20%;
+}
+#menu {
+    margin: 20px 0;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: center;
+}
+#menu > div {
+    width: 30%;
+}
+#menu > div > img {
+    width: 100%;
+}
+/* 삽화 1장 */
+.box17 {
+    width: 95%;
+    margin: 0 auto;
+}
+/* 가계별 링크 */
+#store {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#store {
+    width: 97%;
+    margin: 0 auto;
+}
+#store > img {
+    width: 100%;
+}
+#store > a {
+    border: 1px solid #000;
+}
+#store > a > img {
+    width: 100%;
+}
+
+
+
+#b {
+    width: 100px;
+    height: 300px;
+}
