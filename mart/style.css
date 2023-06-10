@@ -48,13 +48,9 @@
 #store > img {
     width: 100%;
 }
-#store > a {
-    border: 1px solid #000;
+#call41.hover {
+    cursor: pointer;
 }
-#store > a > img {
-    width: 100%;
-}
-
 
 
 #b {
