@@ -26,7 +26,10 @@
 #menu > div {
     width: 30%;
 }
-#menu > div > img {
+#menu > div >  img {
+    width: 100%;
+}
+#menu > div > a > img {
     width: 100%;
 }
 /* 삽화 1장 */
@@ -48,9 +51,7 @@
 #store > img {
     width: 100%;
 }
-#call41.hover {
-    cursor: pointer;
-}
+
 
 
 #b {
